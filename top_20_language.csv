@@ -1,0 +1,21 @@
+rank,2021,2020,2019,2018,2017,2016,2015
+1,JavaScript,JavaScript,JavaScript,JavaScript,JavaScript,JavaScript,JavaScript
+2,TypeScript,Python,Python,Python,Java,Java,Java
+3,Python,TypeScript,Java,Java,Python,Python,Python
+4,Java,Java,HTML,HTML,HTML,PHP,PHP
+5,Go,Go,Go,PHP,PHP,HTML,Ruby
+6,HTML,HTML,TypeScript,Go,Go,Ruby,HTML
+7,PHP,PHP,PHP,C++,C++,CSS,CSS
+8,C++,C++,C++,TypeScript,Ruby,C++,C++
+9,Vue,Vue,CSS,CSS,CSS,Go,C
+10,Shell,Ruby,Vue,Ruby,C,C,Go
+11,C#,C#,Ruby,C,TypeScript,C#,Objective-C
+12,C,CSS,C,C#,C#,Objective-C,C#
+13,Ruby,C,C#,Shell,Shell,Shell,Shell
+14,Rust,Shell,Shell,Vue,Objective-C,Swift,CoffeeScript
+15,CSS,Rust,Rust,Swift,Swift,TypeScript,Scala
+16,Kotlin,Kotlin,Jupyter Notebook,Objective-C,Vue,Scala,Swift
+17,Dart,Jupyter Notebook,Swift,Rust,Scala,CoffeeScript,VimL
+18,Jupyter Notebook,Dart,Kotlin,Jupyter Notebook,Rust,Rust,Rust
+19,Swift,Swift,Objective-C,Kotlin,Jupyter Notebook,VimL,Clojure
+20,SCSS,Objective-C,Dart,Scala,Elixir,Lua,Lua
