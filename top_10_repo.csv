@@ -1,0 +1,11 @@
+rank,2021,2020,2019,2018,2017,2016,2015,2014,2013,2012,2011
+1,ant-design/ant-design,pingcap/tidb,apache/flink,vuejs/vue,vuejs/vue,vuejs/vue,apache/flink,ecomfe/echarts,ecomfe/echarts,seajs/seajs,seajs/seajs
+2,pingcap/tidb,apache/flink,pingcap/tidb,ant-design/ant-design,PaddlePaddle/Paddle,xitu/gold-miner,gogits/gogs,LCTT/TranslateProject,seajs/seajs,NetEase/pomelo,kissyteam/kissy
+3,apache/flink,ant-design/ant-design,ant-design/ant-design,PaddlePaddle/Paddle,pingcap/tidb,apache/flink,pingcap/tidb,alibaba/dubbo,NetEase/pomelo,taobao/tengine,seajs/spm
+4,PaddlePaddle/Paddle,PaddlePaddle/Paddle,PaddlePaddle/Paddle,pingcap/tidb,ant-design/ant-design,ant-design/ant-design,ecomfe/echarts,seajs/seajs,LCTT/TranslateProject,kissyteam/kissy,kissyteam/kissy-gallery
+5,apache/tvm,apache/incubator-tvm,vuejs/vue,apache/flink,ElemeFE/element,pingcap/tidb,shadowsocks/shadowsocks-windows,NetEase/pomelo,taobao/nginx-book,alipay/arale,douban/douban-objc-client
+6,tikv/tikv,vuejs/vue,tikv/tikv,xitu/gold-miner,xitu/gold-miner,gogits/gogs,vuejs/vue,fex-team/ueditor,alibaba/tengine,seajs/spm,kissyteam/kissy-editor
+7,pingcap/docs-cn,tikv/tikv,xitu/gold-miner,ElemeFE/element,apache/flink,Bilibili/ijkplayer,ant-design/ant-design,alibaba/druid,alibaba/druid,AlloyTeam/JX,kissyteam/kissy-util
+8,apache/shardingsphere,pingcap/docs-cn,ElemeFE/element,apache/incubator-dubbo,vuejs/awesome-vue,pingcap/tikv,LCTT/TranslateProject,alibaba/tengine,kissyteam/kissy,douban/dpark,kissyteam/kissy-dpl
+9,pingcap/docs,apache/shardingsphere,dmlc/tvm,pingcap/tikv,pingcap/tikv,alibaba/weex,Bilibili/ijkplayer,fex-team/webuploader,alibaba/dubbo,MiCode/FileExplorer,kissyteam/kissyteam.github.com
+10,xitu/gold-miner,pingcap/docs,seata/seata,ant-design/ant-design-pro,eggjs/egg,ecomfe/echarts,alibaba/dubbo,dianping/cat,AlloyTeam/AlloyPhoto,kissyteam/kissy-gallery,kissyteam/kissy-tools
