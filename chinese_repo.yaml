@@ -4,6 +4,7 @@ companies:
       - 6128107 # vuejs
       - 6656686 # gogs
     repos:
+      - 49876476 # apache/shardingsphere
       - 45721011 # apache/skywalking
       - 180481986 # apache/apisix
       - 60844036 # shadowsocks/ShadowsocksX-NG
@@ -128,8 +129,6 @@ companies:
       - 39963175 # areslabs
       - 30794937 # NervJS
       - 22739181 # jdf2e
-    repos:
-      - 49876476 # apache/shardingsphere
   Tencent:
     orgs:
       - 18461506 # Tencent
